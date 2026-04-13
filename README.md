@@ -171,6 +171,8 @@ A interface foi construída utilizando **CustomTkinter**, proporcionando:
   - Histórico de vendas e resumo financeiro
 - Atualizações em tempo real
 
+![Sistema](imagens/tela.png)
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
